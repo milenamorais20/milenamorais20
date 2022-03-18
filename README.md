@@ -1,7 +1,7 @@
 ## HI, I'M MILENA MORAIS
 
 - I’m interested front-end web development;
--I have experience with projects using JavaScript, HTML and CSS.
+- I have experience with projects using JavaScript, HTML and CSS.
 
 -See my Linkedin: <a href="https://www.linkedin.com/in/milena-morais-8726a21aa/">Milena Morais</a>
 <!---
