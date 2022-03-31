@@ -1,17 +1,22 @@
-## HI, I'M MILENA MORAIS
+## Olá! Eu sou a Milena Morais
 
-- I’m interested front-end web development;
-- I have experience with projects using JavaScript, HTML and CSS.
+<div align="center">
+  <a href="https://github.com/milenamorais20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milenamorais20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenamorais20&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-# Tech Stack
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Mi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <img align="center" alt="Mi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!--   <img align="center" alt="Mi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+<!--   <img align="center" alt="Mi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 
-![image](https://user-images.githubusercontent.com/95362132/159136183-648418b3-1499-4652-af29-cac9c126c3d7.png)
-![image](https://user-images.githubusercontent.com/95362132/159136142-cf98b312-e8cf-4f93-9a32-e1a7e857e81c.png)
-![image](https://user-images.githubusercontent.com/95362132/159136222-f769934c-3742-46dc-9ac4-8705bba0ab4d.png)
-
-# Where to find me
--See my Linkedin: <a href="https://www.linkedin.com/in/milena-morais-8726a21aa/">Milena Morais</a>
-<!---
-milenamorais20/milenamorais20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
+    
+  <a href="https://instagram.com/_milena.morais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:milenamorais2017@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/milena-morais-8726a21aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
