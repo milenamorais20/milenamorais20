@@ -1,26 +1,14 @@
 # Olá! Milena aqui 👋
 
-## Indíce 🗂️
-
-<details>
-  <summary>Clique para expandir</summary> <br>
-  <a href="#onde-encontrar"> :earth_americas: Onde me encontrar</a> <br>
-  <a href="#linguagens-frameworks">📖Linguagens - frameworks</a> <br>
-  <a href="#stats">:star: Github Stats</a> <br>
-  <a href="#linguagens">🤓Linguagens mais usadas</a> <br>
-  <a href="#atividade">:dart: Atividade contribução</a> <br>
-</details>
-
-## <div id="onde-encontrar"> :earth_americas:Onde me encontrar</div>
-
-  <a href="https://instagram.com/_milena.morais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:milenamorais2017@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/milena-morais-8726a21aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-## <div id="linguagens-frameworks"> 📖 Linguagens - Frameworks</div>
+## <div> 📖 Linguagens </div>
   <div style="display: inline_block">
-  <img align="center" alt="Mi-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Spring" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original-wordmark.svg" />
+    <img align="center" alt="Junit" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/junit/junit-original-wordmark.svg" />
+    <img align="center" alt="Postgres" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img align="center" alt="Postman" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-original-wordmark.svg" />
+    <img align="center" alt="Swagger" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/swagger/swagger-original-wordmark.svg" />
+    <img align="center" alt="Mi-Mongo" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   </div>
   
 <br>
